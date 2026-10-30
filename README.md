@@ -7,6 +7,8 @@ Setup:
   source /usr/share/gazebo/setup.bash
   export GAZEBO_MODEL_DATABASE_URI=""
 
+Repo to be cloned in the src folder
+
 Build and run:
   colcon build --symlink-install
   source install/setup.bash
