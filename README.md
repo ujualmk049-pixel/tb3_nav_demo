@@ -14,5 +14,4 @@ Build and run:
   source install/setup.bash
   ros2 launch tb3_nav_demo nav_demo.launch.py
 
-Usage: set the 2D Pose Estimate in RViz, send a Nav2 Goal, then insert a box in Gazebo to show replanning.
-
+Usage: set the 2D Pose Estimate in RViz, send a Nav2 Goal.
