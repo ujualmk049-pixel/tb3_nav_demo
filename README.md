@@ -15,3 +15,4 @@ Build and run:
   ros2 launch tb3_nav_demo nav_demo.launch.py
 
 Usage: set the 2D Pose Estimate in RViz, send a Nav2 Goal.
+Demo video: https://drive.google.com/file/d/1FwFbm-0L-KSFwO33VSdVyhww21yePL_j/view?usp=drivesdk
